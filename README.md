@@ -3,7 +3,7 @@
 features
 1. simple responsive music player that allows users to listen to music.
 2. simple functionality that allows to skip previous, skip next song, play and pause.
-3. Built this simple web application as a part of learning React, Redux.
+3. Built this simple web application as a part of learning React and Redux.
 
 
 
