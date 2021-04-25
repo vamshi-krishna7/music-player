@@ -1,0 +1,28 @@
+.library {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 20rem;
+    height: 100%;
+    overflow: scroll;
+    background-color: white;
+    transform: translateX(-100%);
+    transition: all 0.5s ease;
+    opacity: 0;
+
+    .library-header {
+        text-align: center;
+        text-transform: capitalize;
+    }
+}
+
+.library.active {
+    transform: translateX(0%);
+    opacity: 1;
+}
+
+@media screen and (max-width: 768px) {
+    .library {
+        width: 100%;
+    }
+}

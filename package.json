@@ -1,0 +1,21 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "json-server": "json-server --watch db.json --port 5000",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run json-server\" \"npm run client\"",
+    "heroku-postbuild": "npm install --prefix client && npm run build --prefix client"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^6.0.2",
+    "express": "^4.17.1",
+    "json-server": "^0.16.3"
+  }
+}

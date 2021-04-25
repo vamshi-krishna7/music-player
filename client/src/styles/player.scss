@@ -1,0 +1,42 @@
+.player {
+    min-height: 15vh;
+    width: 80%;
+    margin: 0 auto;
+    
+    .time-control {
+        padding: 1.5rem;
+        display: flex;
+        justify-content: space-around;
+
+        p {
+            padding: 0.5rem;
+        }
+        input {
+          width: 100%;  
+        }
+    }
+
+    .play-control {
+        width: 25%;
+        margin: 1rem auto;
+        display: flex;
+        justify-content: space-between;
+        // border: 1px solid purple;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .player {
+        width: 95%;
+        .time-control {
+            padding: 1rem;
+            p {
+                padding: 0.5rem;
+            }
+        }
+        .play-control {
+            width: 45%;
+        }
+    }    
+    
+}

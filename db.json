@@ -1,0 +1,74 @@
+  {
+      "data": [{
+        "name": "Seascape",
+        "id": 1,
+        "cover": "https://chillhop.com/wp-content/uploads/2020/11/f78c39b4bb6313ddd0354bef896c591bfb490ff8-1024x1024.jpg",
+        "artist": "Makzo",
+        "audio":"https://mp3.chillhop.com/serve.php/?mp3=11772",
+        "color": ["#fffff", "#ggggg"],
+        "active": true
+    },
+    {
+        "name": "Bud",
+        "id": 2,
+        "cover": "https://chillhop.com/wp-content/uploads/2021/01/453b13ae3c0e2eec280fcc6357800b825239806e-1024x1024.jpg",
+        "artist": "Loop Schrauber",
+        "audio":"https://mp3.chillhop.com/serve.php/?mp3=12168",
+        "color": ["#fffff", "#ggggg"],
+        "active": false
+    },
+    {
+        "name": "Sunrise Hike",
+        "id": 3,
+        "cover": "https://chillhop.com/wp-content/uploads/2021/01/453b13ae3c0e2eec280fcc6357800b825239806e-1024x1024.jpg",
+        "artist": "Ruck P",
+        "audio":"https://mp3.chillhop.com/serve.php/?mp3=12133",
+        "color": ["#fffff", "#ggggg"],
+        "active": false
+    },
+    {
+        "name": "Cascade",
+        "id": 4,
+        "cover": "https://chillhop.com/wp-content/uploads/2021/02/70a56749b8b89815fa75446030c6ba57d2c34de7-1024x1024.jpg",
+        "artist": "Knowmadic",
+        "audio":"https://mp3.chillhop.com/serve.php/?mp3=13091",
+        "color": ["#fffff", "#ggggg"],
+        "active": false
+    },
+    {
+        "name": "By Chance",
+        "id": 5,
+        "cover": "https://chillhop.com/wp-content/uploads/2021/03/74d62bc9370a68e440c1b98eaf650344f0a7faea-1024x1024.jpg",
+        "artist": "SwuM",
+        "audio":"https://mp3.chillhop.com/serve.php/?mp3=15223",
+        "color": ["#fffff", "#ggggg"],
+        "active": false
+    },
+    {
+        "name": "Playful Obsession",
+        "id": 6,
+        "cover": "https://chillhop.com/wp-content/uploads/2021/02/d12927eedcc2f5afba2ab049a4a1ea46c2266ae3-1024x1024.jpg",
+        "artist": "C Y G N",
+        "audio":"https://mp3.chillhop.com/serve.php/?mp3=14982",
+        "color": ["#fffff", "#ggggg"],
+        "active": false
+    },
+    {
+        "name": "Maple",
+        "id": 7,
+        "cover": "https://chillhop.com/wp-content/uploads/2021/02/7f102bdde417f6ead9a120b2b931449e5c12b4da-1024x1024.jpg",
+        "artist": "Arbour, Aarigod",
+        "audio":"https://mp3.chillhop.com/serve.php/?mp3=13012",
+        "color": ["#fffff", "#ggggg"],
+        "active": false
+    },
+    {
+        "name": "Ah Yeah",
+        "id": 8,
+        "cover": "https://chillhop.com/wp-content/uploads/2020/10/644dedb802e85f3eb700b8b091e729504b680a9c-1024x1024.jpg",
+        "artist": "Psalm Trees, James Berkeley",
+        "audio":"https://mp3.chillhop.com/serve.php/?mp3=10535",
+        "color": ["#fffff", "#ggggg"],
+        "active": false
+}]
+  }
